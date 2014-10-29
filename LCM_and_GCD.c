@@ -1,6 +1,8 @@
 /*
 * @turlapatykaushik
 * github url : github.com/turlapatykaushik
+
+* problem description : Finding the LCM and GCD of two numbers in C Programming
 */
 #include<stdio.h>
 #include<stdlib.h>
