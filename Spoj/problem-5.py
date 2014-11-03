@@ -1,7 +1,7 @@
 /*
 * @turlapatykaushik
 * github url : github.com/turlapatykaushik
- */
+*/
  
 from fractions import gcd
 from functools import reduce
