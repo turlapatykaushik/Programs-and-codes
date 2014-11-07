@@ -1,3 +1,10 @@
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+
+* problem description : Find the roots of a quadratic equation using python
+*/
+
 import math
 a = int(raw_input("Enter a number for a"))
 b = int(raw_input("Enter a number for b"))
