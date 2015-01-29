@@ -4,7 +4,6 @@
 * problem description : Find point which is symmetric to point p about q
 */
 
-
 #include<iostream>
 #include<string>
 using namespace std;
