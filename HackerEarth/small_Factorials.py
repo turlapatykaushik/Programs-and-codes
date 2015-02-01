@@ -1,3 +1,9 @@
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+* problem description : This program is to find factorials of given numbers
+*/
+
 def fac(n):
     if(n==0):
 	return 1
