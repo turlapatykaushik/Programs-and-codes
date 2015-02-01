@@ -9,12 +9,12 @@ while(t):
 	x = list(raw_input())
 	y = len(x)
 	count = 0
-  for i in range(4,len(x)):
-	if(x[i]=="a")or(x[i]=="e")or(x[i]=="i")or(x[i]=="o")or(x[i]=="u"):
+    	for i in range(4,len(x)):
+		if(x[i]=="a")or(x[i]=="e")or(x[i]=="i")or(x[i]=="o")or(x[i]=="u"):
 			count1 = 0	
 		else:
 			count = count + 1
-    e = "/"
-    print("%d%s%d"%(count+1, e,y))
+    	e = "/"
+    	print("%d%s%d"%(count+1, e,y))
 
 
