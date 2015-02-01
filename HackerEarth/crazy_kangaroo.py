@@ -4,8 +4,8 @@
 * problem description : This problem is 'Crazy Kangaroo' from HackerEarth
 */
 
-    t = input()
-    while(t):
+t = input()
+while(t):
     count = 0
     t = t-1
     x = raw_input().split()
