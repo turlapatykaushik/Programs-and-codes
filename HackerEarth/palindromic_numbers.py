@@ -11,7 +11,6 @@ def pal(n):
 		return True
 	else:
 		return False
-
 m = input()
 while(m):
 	count = 0
