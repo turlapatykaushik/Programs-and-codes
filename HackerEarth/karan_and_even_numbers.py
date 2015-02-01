@@ -1,3 +1,9 @@
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+* problem description : This program is about the problem 'Karan and even numbers' from HackerEarth
+*/
+
 y = []
 while(1):
 	x = input()
